@@ -1,4 +1,4 @@
-name: 'Rust Release binary'
+name: 'Rust Release New binary'
 description: 'Automate publishing Rust build artifacts for GitHub releases through GitHub Actions'
 branding:
   icon: 'box'
